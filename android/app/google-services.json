@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439416439525",
+    "project_id": "burrows-ng",
+    "storage_bucket": "burrows-ng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439416439525:android:b6c7126fcbd78f2e1d4a0c",
+        "android_client_info": {
+          "package_name": "com.burrows.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439416439525-u3p37bbefmunthg298aq68c3qesfgfqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvd2tA8giMIM5UGVjmaphQB5mwhr7CTBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439416439525-u3p37bbefmunthg298aq68c3qesfgfqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
